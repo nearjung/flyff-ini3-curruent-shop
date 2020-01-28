@@ -1,0 +1,105 @@
+@media screen and (max-height: 549px)
+{
+div#rightColumn
+{
+    margin-top: 0;
+}
+
+div#boxImage img
+{
+    height: 122px;
+}
+
+div#percentOffer
+{
+    top: 5px; 
+}
+
+div#versionOffer
+{
+    top: 45px;
+}
+
+div#oldPrice
+{
+    top: 40px;
+}
+
+div#oldPriceCut
+{
+    top: 70px;
+}
+
+div#newPrice
+{
+    top: 110px;
+}
+
+div#benefits
+{
+    top: 150px;
+}
+
+div#buyButtonImage
+{
+    top: 280px;
+}
+
+div#frameLeft
+{
+    height: 95px;
+    background-image: url("./../images/frame_354_95.png");
+}
+
+div#ring img
+{
+    height: 39px;
+}
+
+div#imgLink
+{
+    height: 95px;
+}
+
+.linkImage
+{
+    height: 95px;
+}
+
+div#trial
+{
+    padding-right: 0;
+}
+
+div#trial p
+{
+    margin-bottom: 1px;
+}
+
+div#trial span
+{
+    font-size: 18px;
+}
+
+div#ring-clear
+{
+    bottom: 5px;
+}
+
+div#leftColumn
+{
+    height: 369px;
+}
+
+div#adContent
+{
+    height: 450px;
+}
+
+div#frameImageContainer
+{
+    height: 369px;
+    background-image: url("./../images/frame_306_369.png");
+}
+
+}

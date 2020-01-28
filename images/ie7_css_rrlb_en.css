@@ -1,0 +1,14 @@
+ul.csc-bulletlist
+{
+    line-height: 26px;
+}
+div#bottomLeftOffer
+{
+    width: 300px;
+    height: 250px;
+    top: -10px;
+}
+div#textLeft
+{
+    font-size: 13px;
+}

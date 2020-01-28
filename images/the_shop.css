@@ -1,0 +1,40 @@
+.repeat_x { background-repeat:repeat-x; }
+.repeat_y { background-repeat:repeat-y; }
+.bgtop { background-repeat:no-repeat; background-position: left bottom; }
+.bgright { background-repeat:no-repeat; background-position: left center; }
+
+body { margin:0px 0px; }
+img { border:0px; }
+
+a:link, a:active, a:visited { color: #666666; text-decoration: none; }
+a:hover { color: #000000; text-decoration: underline; }
+a.wmenu1:link, a.wmenu1:active, a.wmenu1:visited { color: #666666; text-decoration: none; }
+a.wmenu1:hover { background-color:#8fada6; color:#FFFFFF; text-decoration: none; padding:2 12 0 4; }
+
+td { font-size: 9pt; font-family: ±¼¸²; }
+.d8 { font-size: 8pt; font-family: µ¸¿ò; }
+.d8h11 { font-size: 8pt; font-family: µ¸¿ò; line-height: 11pt; }
+.d9 { font-size: 9pt; font-family: µ¸¿ò; }
+.db8 { font-size: 8pt; font-family: µ¸¿ò; font-weight: bold; }
+.d9h11a { font-size: 9pt; font-family: µ¸¿ò; line-height: 11pt; text-align: justify; }
+.d9h13 { font-size: 9pt; font-family: µ¸¿ò; line-height: 13pt; }
+.d9h13a { font-size: 9pt; font-family: µ¸¿ò; line-height: 13pt; text-align: justify; }
+.g9 { font-size: 9pt; font-family: ±¼¸²; }
+.gb13 { font-size: 13pt; font-weight: bold; font-family: ±¼¸²; }
+.gb14 { font-size: 14pt; font-weight: bold; font-family: ±¼¸²; }
+.g9h13 { font-size: 9pt; font-family: ±¼¸²; line-height: 13pt; }
+.g9h11a { font-size: 9pt; font-family: ±¼¸²; line-height: 11pt; text-align: justify; }
+.a7 { font-size: 7pt; font-family: arial; }
+.ab7 { font-size: 7pt; font-family: arial black; }
+.ab7back1 { font-size: 7pt; font-family: arial black; background-color:#336699; color:#FFFFFF; }
+.a8 { font-size: 8pt; font-family: arial; }
+
+.menulist_1 { list-style-image: url(img/icon_list_01.gif); margin-left:0px; }
+.menutitle { font-size: 8pt; font-family: µ¸¿ò; font-weight: bold; color: #FFFFFF; padding:4 0 0 5; }
+.list_bg { filter:'progid:DXImageTransform.Microsoft.Gradient(GradientType=0, StartColorStr=#F3F3F3, EndColorStr=#FFFFFF)'; }
+
+input, select, textarea  {
+	font-family: µ¸¿òÃ¼; 
+	font-size:12px;
+	color:#666666;
+}
